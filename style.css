@@ -1,0 +1,20 @@
+.title{
+    font-size: 30px;
+    color: chocolate;
+    border-radius: 30px;
+}
+body{
+    background-color:aqua ;
+}
+#snap{
+font-size: 30px;
+border-radius: 30px;
+text-align:center;
+}
+canvas{
+    border: 15px ridge red;
+}
+input{
+    margin-top: 10px;
+    border-radius: 20px;
+}
